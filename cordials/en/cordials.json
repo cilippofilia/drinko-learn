@@ -1,8 +1,29 @@
 [
     {
-        "id":"",
-        "title":"",
+        "id":"cordial",
+        "title":"What is a cordial?",
         "description":"",
+        "body":""
+    },
+    
+    {
+        "id":"base-cordial",
+        "title":"How to create a plain cordial",
+        "description":"Let's see what proportions of water sugar and acids to use",
+        "body":""
+    },
+    
+    {
+        "id":"easy-cordial",
+        "title":"Lime, lemon and/or orange?",
+        "description":"Did someone say store bought?",
+        "body":""
+    },
+    
+    {
+        "id":"advanced-cordial",
+        "title":"Advanced cordials",
+        "description":"Let's break them down and see where you can go with them",
         "body":""
     }
 ]
