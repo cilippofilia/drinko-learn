@@ -972,38 +972,6 @@
         ]
     },
     {
-        "id":"castle-to-castle",
-        "name":"Castle to Castle",
-        "method":"shake & fine strain",
-        "glass":"collins",
-        "garnish":"basil sprig",
-        "ice":"cubed",
-        "extra":"-",
-        
-        "ingredients":[
-            {
-                "name":"irish whiskey",
-                "quantity":1.5,
-                "unit":"oz."
-            },
-            {
-                "name":"freshly pressed apple juice",
-                "quantity":1.5,
-                "unit":"oz."
-            },
-            {
-                "name":"lemon juice",
-                "quantity":0.75,
-                "unit":"oz."
-            },
-            {
-                "name":"honey syrup (2:1)",
-                "quantity":2.0,
-                "unit":"dashes"
-            }
-        ]
-    },
-    {
         "id":"irish-breakfast",
         "name":"Irish Breakfast",
         "method":"shake & fine strain",
@@ -2057,38 +2025,6 @@
             {
                 "name":"angostura bitters",
                 "quantity":2.0,
-                "unit":"dashes"
-            }
-        ]
-    },
-    {
-        "id":"frantic-atlantic",
-        "name":"Frantic Atlantic",
-        "method":"whip shake",
-        "glass":"rock",
-        "garnish":"mint plouche",
-        "ice":"crushed",
-        "extra":"-",
-        
-        "ingredients":[
-            {
-                "name":"pisco",
-                "quantity":1.0,
-                "unit":"oz."
-            },
-            {
-                "name":"st. germain",
-                "quantity":1.0,
-                "unit":"oz."
-            },
-            {
-                "name":"grapefruit juice",
-                "quantity":1.0,
-                "unit":"oz."
-            },
-            {
-                "name":"lime juice",
-                "quantity":0.5,
                 "unit":"dashes"
             }
         ]

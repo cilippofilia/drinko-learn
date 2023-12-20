@@ -972,38 +972,6 @@
         ]
     },
     {
-        "id":"castle-to-castle",
-        "name":"Castle to Castle",
-        "method":"shake & fine strain",
-        "glass":"collins",
-        "garnish":"bouquet di basilico",
-        "ice":"cubetti",
-        "extra":"-",
-        
-        "ingredients":[
-            {
-                "name":"irish whiskey",
-                "quantity":1.5,
-                "unit":"oz."
-            },
-            {
-                "name":"succo di mela",
-                "quantity":1.5,
-                "unit":"oz."
-            },
-            {
-                "name":"succo di limone",
-                "quantity":0.75,
-                "unit":"oz."
-            },
-            {
-                "name":"sciroppo di miele (2:1)",
-                "quantity":2.0,
-                "unit":"spruzzi"
-            }
-        ]
-    },
-    {
         "id":"irish-breakfast",
         "name":"Irish Breakfast",
         "method":"shake & fine strain",
@@ -2030,38 +1998,6 @@
             {
                 "name":"angostura bitters",
                 "quantity":2.0,
-                "unit":"spruzzi"
-            }
-        ]
-    },
-    {
-        "id":"frantic-atlantic",
-        "name":"Frantic Atlantic",
-        "method":"whip shake",
-        "glass":"rock",
-        "garnish":"bouquet di menta",
-        "ice":"tritato",
-        "extra":"-",
-        
-        "ingredients":[
-            {
-                "name":"pisco",
-                "quantity":1.0,
-                "unit":"oz."
-            },
-            {
-                "name":"st. germain",
-                "quantity":1.0,
-                "unit":"oz."
-            },
-            {
-                "name":"succo di pompelmo",
-                "quantity":1.0,
-                "unit":"oz."
-            },
-            {
-                "name":"succo di lime",
-                "quantity":0.5,
                 "unit":"spruzzi"
             }
         ]
