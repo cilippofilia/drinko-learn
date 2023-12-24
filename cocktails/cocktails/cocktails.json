@@ -7,20 +7,6 @@
         "garnish":"-",
         "ice":"-",
         "extra":"absinthe-rinsed coupe",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Rinse the coupe with absinthe and add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass and enjoy!"
-            }
-        ],
         
         "ingredients":[
             {
@@ -53,20 +39,6 @@
         "garnish":"cucumber mint",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice and enjoy!"
-            }
-        ],
         
         "ingredients":[
             {
@@ -104,20 +76,6 @@
         "garnish":"lemon twist expressed and discarded",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Shake hard to emulsify your foaming agent. Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, allow it to settle, garnish and enjoy!"
-            }
-        ],
         
         "ingredients":[
             {
@@ -196,20 +154,6 @@
         "garnish":"lemon twist",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
         
         "ingredients":[
             {
@@ -242,20 +186,6 @@
         "garnish":"lemon twist",
         "ice":"-",
         "extra":"absinth-rinsed coupe",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Rinse the coupe with absinthe and add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
         
         "ingredients":[
             {
@@ -288,20 +218,6 @@
         "garnish":"apple slices",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
         
         "ingredients":[
             {
@@ -339,20 +255,6 @@
         "garnish":"flamed orange twist",
         "ice":"-",
         "extra":"To maximise the WOW factor, lightly warm up the skin on the orange and firmly squeeze the sides over the flame, aimng towards the top of the cocktail.\nThis will make the oils bursts and burn",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -385,20 +287,6 @@
         "garnish":"3 coffee beans",
         "ice":"-",
         "extra":"Use cold espresso made up to 72 hours prior. This will guarantee you to have more control over the dilution of the cocktail. Freshly made espresso can lead to an over diluted cocktail because of the temperature of the espresso itself",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -431,21 +319,7 @@
         "garnish":"lemon twist",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
-        
+
         "ingredients":[
             {
                 "name":"vodka",
@@ -472,21 +346,7 @@
         "garnish":"lemon twist",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
-        
+
         "ingredients":[
             {
                 "name":"vodka",
@@ -518,20 +378,6 @@
         "garnish":"lemon twist or olive (1 or 3, never 2)",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
         
         "ingredients":[
             {
@@ -554,20 +400,6 @@
         "garnish":"lemon twist or olive (1 or 3, never 2)",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -590,20 +422,6 @@
         "garnish":"pickled onion (1 or 3, never 2)",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
         
         "ingredients":[
             {
@@ -631,20 +449,6 @@
         "garnish":"lime wedge",
         "ice":"cubed",
         "extra":"top with ginger beer",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker; A part from the ginger beer"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice, top with ginger beer, garnish and enjoy!"
-            }
-        ],
         
         "ingredients":[
             {
@@ -677,20 +481,6 @@
         "garnish":"mint",
         "ice":"crushed ice/pebble ice",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add crushed ice, garnish and enjoy!"
-            }
-        ],
         
         "ingredients":[
             {
@@ -723,20 +513,6 @@
         "garnish":"-",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -764,20 +540,6 @@
         "garnish":"cherry on a pick",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, add fresh cubed ice, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -805,20 +567,6 @@
         "garnish":"flamed orange twist",
         "ice":"cubed",
         "extra":"To maximise the WOW factor, lightly warm up the skin on the orange and firmly squeeze the sides over the flame, aimng towards the top of the cocktail.\nThis will make the oils bursts and burn",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, add fresh cubed ice, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -851,20 +599,6 @@
         "garnish":"orange twist",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
         
         "ingredients":[
             {
@@ -902,20 +636,6 @@
         "garnish":"-",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice and enjoy!"
-            }
-        ],
         
         "ingredients":[
             {
@@ -943,20 +663,6 @@
         "garnish":"lemon wheel",
         "ice":"cubed",
         "extra":"top with ginger beer",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker; a part from ginger beer"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice, top it with ginger beer, and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -994,20 +700,6 @@
         "garnish":"-",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice and enjoy!"
-            }
-        ],
         
         "ingredients":[
             {
@@ -1040,20 +732,6 @@
         "garnish":"orange twist",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, add fresh cubed ice, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -1086,20 +764,6 @@
         "garnish":"-",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass and enjoy!"
-            }
-        ],
         
         "ingredients":[
             {
@@ -1137,20 +801,6 @@
         "garnish":"orange twist",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -1183,24 +833,6 @@
         "garnish":"-",
         "ice":"cubed",
         "extra":"float of red wine",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker; a part from the red wine"
-            },
-            {
-                "step": "Step 2",
-                "text": "Shake hard to emulsify your foaming agent. Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add cubed ice to the glass, fine strain the cocktail inside the glass and allow it to settle"
-            },
-            {
-                "step": "Step 4",
-                "text": "Use a barspoon to float the red wine and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -1238,20 +870,6 @@
         "garnish":"-",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -1284,24 +902,6 @@
         "garnish":"mint",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 1",
-                "text": "Gently muddle the mint to release the oils"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice, garnish and enjoy!"
-            }
-        ],
         
         "ingredients":[
             {
@@ -1339,20 +939,6 @@
         "garnish":"-",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -1380,20 +966,6 @@
         "garnish":"lime wheel",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -1421,24 +993,6 @@
         "garnish":"orange twist",
         "ice":"-",
         "extra":"stir marmalade until dissolved",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "With a barspoon, stir the marmalade until is into smaller pieces"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 4",
-                "text": "Fine strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -1471,20 +1025,6 @@
         "garnish":"lime wheel",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -1517,20 +1057,6 @@
         "garnish":"lemon twist expressed and discarded",
         "ice":"cubed",
         "extra":"absinthe-rinsed glass",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass and coat the glass with absinthe"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, add fresh cubed ice, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -1563,20 +1089,6 @@
         "garnish":"lemon & orange twist",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, add fresh cubed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -1614,20 +1126,6 @@
         "garnish":"lemon twist",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -1670,20 +1168,6 @@
         "garnish":"lime wedge",
         "ice":"cubed",
         "extra":"top ginger beer & 4 dashes of angostura",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice, top with ginger beer, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -1711,20 +1195,6 @@
         "garnish":"lemon twist",
         "ice":"-",
         "extra":"absinthe-rinsed glass & splash soda water",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker and coat the flute with absinthe"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add a splash of soda water, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -1757,20 +1227,6 @@
         "garnish":"lemon twist",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -1798,20 +1254,6 @@
         "garnish":"orange twist",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -1844,20 +1286,6 @@
         "garnish":"lemon & orange twist",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, add fresh cubed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -1890,20 +1318,6 @@
         "garnish":"orange twist",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, add fresh cubed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -1936,24 +1350,6 @@
         "garnish":"grated cinnamon",
         "ice":"-",
         "extra":"hand-whipped cream float",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "To prepare the hand-whipped cream, place a bunch of whipping cream inside a shaker with one ice cube and shake for about 8 to 10 seconds. Remove the ice cube from the shaker before using the cream as garnish"
-            },
-            {
-                "step": "Step 4",
-                "text": "Strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -1981,20 +1377,6 @@
         "garnish":"orange twist",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, add fresh cubed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -2027,20 +1409,6 @@
         "garnish":"lime wheel",
         "ice":"-",
         "extra":"top with champagne",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, top it up with champagne, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -2068,20 +1436,6 @@
         "garnish":"mint",
         "ice":"crushed",
         "extra":"float of yellow chartreuse",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker; apart from the yellow chartreuse"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add crushed ice, float yellow chartreuse, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -2109,20 +1463,6 @@
         "garnish":"lime wheel",
         "ice":"1 cube",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add one ice cube, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -2160,20 +1500,6 @@
         "garnish":"pineapple fronds",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -2216,20 +1542,6 @@
         "garnish":"grated nutmeg",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -2262,20 +1574,6 @@
         "garnish":"orange slice & cherry skewer flag",
         "ice":"crushed ice",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add crushed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -2318,20 +1616,6 @@
         "garnish":"lemon wheel",
         "ice":"cubed",
         "extra":"float of sherry - Moscatel if possible",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice, float the sherry on top, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -2374,20 +1658,6 @@
         "garnish":"fruits & fire",
         "ice":"crushed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass and add a big scoop of crushed ice"
-            },
-            {
-                "step": "Step 2",
-                "text": "With a barspoon churn all the ingredients in the glass for 8 to 10 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Top the glass with more crushed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -2445,20 +1715,6 @@
         "garnish":"grated nutmeg, orange slice & cherry",
         "ice":"crushed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add crushed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -2501,20 +1757,6 @@
         "garnish":"grated nutmeg, orange & lime wheel, orchid",
         "ice":"crushed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass and add a big scoop of crushed ice"
-            },
-            {
-                "step": "Step 2",
-                "text": "With a barspoon churn all the ingredients in the glass for 8 to 10 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Top the glass with more crushed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -2557,20 +1799,6 @@
         "garnish":"pineapple wedge & 3 cherries",
         "ice":"crushed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass and add a big scoop of crushed ice"
-            },
-            {
-                "step": "Step 2",
-                "text": "With a barspoon churn all the ingredients in the glass for 8 to 10 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Top the glass with more crushed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -2623,20 +1851,6 @@
         "garnish":"flaming half lime, cinnamon stick, whatever other cool stuff on top",
         "ice":"crushed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass and add a big scoop of crushed ice"
-            },
-            {
-                "step": "Step 2",
-                "text": "With a barspoon churn all the ingredients in the glass for 8 to 10 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Top the glass with more crushed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -2699,20 +1913,6 @@
         "garnish":"-",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -2750,20 +1950,6 @@
         "garnish":"grated nutmeg",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker; whole egg included"
-            },
-            {
-                "step": "Step 2",
-                "text": "Shake hard to emulsify your foaming agent. Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add cubed ice to the glass, fine strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -2796,20 +1982,6 @@
         "garnish":"mint sprigs",
         "ice":"crushed",
         "extra":"slap the mint to release the oils",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Shake hard to emulsify. Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add crushed ice to the glass, fine strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -2842,20 +2014,6 @@
         "garnish":"lemon twist",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, add fresh cubed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -2893,20 +2051,6 @@
         "garnish":"orange twist, pineapple wedge & mint",
         "ice":"crushed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add crushed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -2944,20 +2088,6 @@
         "garnish":"6 drops Chuncho bitters",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Shake hard to emulsify your foaming agent. Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, allow it to settle, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -2995,20 +2125,6 @@
         "garnish":"orange & lemon twist",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, add fresh cubed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -3041,21 +2157,7 @@
         "garnish":"-",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the glassand give it a quick stir to incordorate all the ingredients"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add more fresh cubed ice (if needed) and enjoy!"
-            }
-        ],
-        
+
         "ingredients":[
             {
                 "name":"apple brandy",
@@ -3087,20 +2189,6 @@
         "garnish":"-",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -3133,20 +2221,6 @@
         "garnish":"-",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -3184,20 +2258,6 @@
         "garnish":"lemon wheel & grated cinnamon",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -3245,20 +2305,6 @@
         "garnish":"orange twist",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -3286,20 +2332,6 @@
         "garnish":"lemon twist",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -3337,20 +2369,6 @@
         "garnish":"mint, lemon and orange wheel",
         "ice":"crushed",
         "extra":"float of Pedro Ximenez sherry",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice, float the sherry on top, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -3373,20 +2391,6 @@
         "garnish":"lemon twist & cherry",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Shake hard to emulsify your foaming agent. Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, allow it to settle, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -3424,20 +2428,6 @@
         "garnish":"orange slice",
         "ice":"crushed",
         "extra":"top with soda water",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the glass, give it a short stir to mix the ingredients together"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add fresh cubed ice, add the soda water on top, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -3460,20 +2450,6 @@
         "garnish":"orange slice",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the glass, give it a short stir to mix the ingredients together"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add more fresh cubed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -3501,20 +2477,6 @@
         "garnish":"orange twist",
         "ice":"-",
         "extra":"absinthe-rinsed coupe",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -3542,20 +2504,6 @@
         "garnish":"cherry inside the coupe",
         "ice":"-",
         "extra":"creme de violette rinsed coupe",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -3588,20 +2536,6 @@
         "garnish":"lemon wheel",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -3629,12 +2563,6 @@
         "garnish":"-",
         "ice":"-",
         "extra":"to make it extra cold, stir the peach puree with a splash of prosecco over ice & strain inside the flute - then top with more prosecco",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -3657,20 +2585,6 @@
         "garnish":"lemon twist",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -3703,20 +2617,6 @@
         "garnish":"-",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the glass, give it a short stir to mix the ingredients together"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add more fresh cubed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -3739,20 +2639,6 @@
         "garnish":"olives or gerkins, lemon wedge & celery stick",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the big tin of the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the tin, place the strainer on top, and throw the cocktail between the two tins until chilled"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -3800,20 +2686,6 @@
         "garnish":"orange twist",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, add fresh cubed ice, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -3841,20 +2713,6 @@
         "garnish":"lemon twist",
         "ice":"crushed",
         "extra":"5 blackberries crushed in the glass",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add crushed ice, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -3882,20 +2740,6 @@
         "garnish":"nutmeg",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -3923,20 +2767,6 @@
         "garnish":"lime wheel",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -3969,20 +2799,6 @@
         "garnish":"lime wedge",
         "ice":"crushed",
         "extra":"muddle lime wedges",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass and add a big scoop of crushed ice"
-            },
-            {
-                "step": "Step 2",
-                "text": "With a barspoon churn all the ingredients in the glass for 8 to 10 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Top the glass with more crushed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4015,20 +2831,6 @@
         "garnish":"spiraling lemon twist",
         "ice":"-",
         "extra":"top with champagne",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Muddle the sugar cube and mix the ingredients together"
-            },
-            {
-                "step": "Step 3",
-                "text": "Top with champagne, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4061,20 +2863,6 @@
         "garnish":"grated nutmeg & mint sprig",
         "ice":"crushed",
         "extra":"float of angostura bitters",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass and add a big scoop of crushed ice"
-            },
-            {
-                "step": "Step 2",
-                "text": "With a barspoon churn all the ingredients in the glass for 8 to 10 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Top the glass with more crushed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4107,20 +2895,6 @@
         "garnish":"orange twist",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the glass, give it a short stir to mix the ingredients together"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add more fresh cubed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4148,20 +2922,6 @@
         "garnish":"3 skewered raspberries & lemon twist",
         "ice":"-",
         "extra":"muddle raspberries inside the shaker",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker, add raspebbies and muddle"
-            },
-            {
-                "step": "Step 2",
-                "text": "Shake hard to emulsify your foaming agent. Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, allow it to settle, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4199,20 +2959,6 @@
         "garnish":"-",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Shake hard to emulsify. Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add fresh cubed ice to the glass, fine strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4245,20 +2991,6 @@
         "garnish":"-",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4286,20 +3018,6 @@
         "garnish":"mint sprig & cucumber slice",
         "ice":"crushed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Shake hard to emulsify. Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add fresh cubed ice to the glass, fine strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4337,20 +3055,6 @@
         "garnish":"spiraling lemon twist",
         "ice":"-",
         "extra":"top with champagne",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker; A part from the champagne"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, top with champagne, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4378,20 +3082,6 @@
         "garnish":"lime wedge",
         "ice":"cubed if served in rock glass",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4419,20 +3109,6 @@
         "garnish":"lime wedge",
         "ice":"cubed",
         "extra":"soda water top",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker; A part from the soda water"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice, top with soda water, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4460,20 +3136,6 @@
         "garnish":"orange twist",
         "ice":"cubed",
         "extra":"scotch for the Godfather - vodka for the Godmother",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the glass, give it a short stir to mix the ingredients together"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add more fresh cubed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4496,20 +3158,6 @@
         "garnish":"mint leaf",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4542,20 +3190,6 @@
         "garnish":"lime wheel",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4593,20 +3227,6 @@
         "garnish":"cinnamon stick & clove-studded lemon wedge",
         "ice":"-",
         "extra":"serve hot",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Let the tea brew for a couple of minutes"
-            },
-            {
-                "step": "Step 3",
-                "text": "Garnish it, serve hot and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4644,24 +3264,6 @@
         "garnish":"1 coffee beans or grated cinnamon",
         "ice":"-",
         "extra":"serve hot - hand whipped heavy cream float",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass; keep the hand-whipped cream on the side for now"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add some heavy cream to a shaker and only one ice cube"
-            },
-            {
-                "step": "Step 3",
-                "text": "Whip shake until chilled and the cream feels less runny"
-            },
-            {
-                "step": "Step 4",
-                "text": "Pour over the top of the cocktail with a barspoon; if whipped correctly the cream will not mix with the hot drink"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4694,20 +3296,6 @@
         "garnish":"lemon twist",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4735,12 +3323,6 @@
         "garnish":"raspberry and lemon twist",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4763,20 +3345,6 @@
         "garnish":"-",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4809,20 +3377,6 @@
         "garnish":"lemon wedge",
         "ice":"cubed",
         "extra":"top with coca cola",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker; A part from the coca cola"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice, top with coca cola, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4865,20 +3419,6 @@
         "garnish":"mint sprig, lime wedge & orange slice",
         "ice":"cubed + crushed top",
         "extra":"MUST: be house-made orgeat or premium brand - bottled almond syrup as the wrong viscosity",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice and a small cap of crushed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4916,20 +3456,6 @@
         "garnish":"cherry",
         "ice":"-",
         "extra":"MUST: offer coupe or rock glass & choice of bourbon or rye whiskey",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -4957,20 +3483,6 @@
         "garnish":"-",
         "ice":"-",
         "extra":"MUST: offer salt rim, coupe or rock glass - ALWAYS: salt rim half glass & add straw if on the rocks",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5003,20 +3515,6 @@
         "garnish":"-",
         "ice":"-",
         "extra":"MUST: offer salt rim, coupe or rock glass - ALWAYS: salt rim half glass & add straw if on the rocks",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5049,20 +3547,6 @@
         "garnish":"lemon twist",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5100,12 +3584,6 @@
         "garnish":"spiraling orange twist",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5128,20 +3606,6 @@
         "garnish":"mint sprig",
         "ice":"crushed",
         "extra":"slap the mint to release the oils",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Shake hard to emulsify. Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add fresh crushed ice to the glass, fine strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5169,20 +3633,6 @@
         "garnish":"mint sprig & lime wedge",
         "ice":"crushed",
         "extra":"slap the mint to release the oils",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass and add a big scoop of crushed ice"
-            },
-            {
-                "step": "Step 2",
-                "text": "with a barspoon churn all the ingredients in the glass for 8 to 10 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "top the glass with more crushed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5215,24 +3665,6 @@
         "garnish":"lime wedge",
         "ice":"cubed + crush top",
         "extra":"REPLACE: base spirit with other spirit for different mules",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass; a part from the ginger beer"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the glass, give it a short stir to mix the ingredients together"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add fresh cubed ice and a small cap of crushed ice"
-            },
-            {
-                "step":"Step 4",
-                "text":"Add the ginger beer on top, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5265,24 +3697,6 @@
         "garnish":"lime wedge & mint sprig",
         "ice":"cubed + crush top",
         "extra":"float dark rum on top",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass; a part from the dark rum"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the glass, give it a short stir to mix the ingredients together"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add fresh cubed ice and a small cap of crushed ice to facilitate the float of dark rum"
-            },
-            {
-                "step":"Step 4",
-                "text":"Add the dark rum on top, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5315,20 +3729,6 @@
         "garnish":"orange wedge",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the glass, give it a short stir to mix the ingredients together"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add more fresh cubed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5356,20 +3756,6 @@
         "garnish":"mint leaf",
         "ice":"-",
         "extra":"top champagne",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker; a part from the champagne"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, top with champagne, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5407,20 +3793,6 @@
         "garnish":"lemon & orange twist",
         "ice":"cubed",
         "extra":"MUST: offer choice of whiskey",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, add fresh cubed ice, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5453,20 +3825,6 @@
         "garnish":"mint & cucumber slice",
         "ice":"cubed",
         "extra":"TIP: this recipe works with any white spirit",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Shake hard to emulsify. Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add fresh cubed ice to the glass, fine strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5504,20 +3862,6 @@
         "garnish":"half salted rim glass & lime wedge",
         "ice":"cubed",
         "extra":"This recipe works with soda water; if grapefruit soda is available and use that instead of juice and soda water",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker (a part from the soda water) and salt the rim of the glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice, top with soda water, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5555,20 +3899,6 @@
         "garnish":"-",
         "ice":"cubed",
         "extra":"float of peated scotch whiskey",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice, float the peaty whiskey and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5601,20 +3931,6 @@
         "garnish":"TOP: orange slice & mint sprig. INSIDE: orange slice, 6 mint leaves, cucumber slice & a quartered strawberry",
         "ice":"cubed",
         "extra":"top with ginger ale OR lemonade",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass and add some ice cubes"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add all the fruits at your disposal (check garnish as reference) and give it a short stir to mix and chill the ingredients"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add more fresh cubed ice, top it with either ginger ale or lemondate, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5652,20 +3968,6 @@
         "garnish":"pineapple wedge & pineapple fronds",
         "ice":"cubed + crushed top",
         "extra":"TIP: KokoKanu or Aluna are great coconut rums to use or alternativly make your own coconut rum - avoid Malibu, please",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Shake hard to emulsify. Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add fresh cubed ice to the glass, fine strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5703,20 +4005,6 @@
         "garnish":"stripe of angostura bitter on top",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5754,20 +4042,6 @@
         "garnish":"1/2 passion fruit",
         "ice":"-",
         "extra":"shot of champagne on the side",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker; hold the champagne for now"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5800,20 +4074,6 @@
         "garnish":"mint sprig",
         "ice":"crushed",
         "extra":"create a float of angostura after churning & add fresh crushed ice on top of it",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass and add a big scoop of crushed ice"
-            },
-            {
-                "step": "Step 2",
-                "text": "with a barspoon churn all the ingredients in the glass for 8 to 10 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "top the glass with more crushed ice, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5841,20 +4101,6 @@
         "garnish":"-",
         "ice":"-",
         "extra":"put the collins inside a freezer before starting to make the drink - add soda water at the bottom of the glass before straining the cocktail inside - pop the cocktail in the freezer to solidify the foam - after a couple of minutes slowly top it up with soda water to create an attractive head",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker; don't add the soda water just yet"
-            },
-            {
-                "step": "Step 2",
-                "text": "Shake hard to emulsify your foaming agent. Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, allow it to settle, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5897,20 +4143,6 @@
         "garnish":"cherry on cocktail pick",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5938,20 +4170,6 @@
         "garnish":"lime wedge",
         "ice":"cubed",
         "extra":"top the cocktail with soda water",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker; A part from the soda water"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice, top with soda water, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -5984,20 +4202,6 @@
         "garnish":"cinnamon stick",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -6020,20 +4224,6 @@
         "garnish":"lemon twist",
         "ice":"-",
         "extra":"absinthe-rinsed CHILLED glass",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Rinse the coupe with absinthe and add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -6071,20 +4261,6 @@
         "garnish":"sugar the rim of half the glass",
         "ice":"-",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -6117,20 +4293,6 @@
         "garnish":"orange slice, cherry & pineapple fronds",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Shake hard to emulsify. Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add fresh cubed ice to the glass, fine strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -6183,20 +4345,6 @@
         "garnish":"mint sprig",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -6229,20 +4377,6 @@
         "garnish":"lemon wheel & mint sprig",
         "ice":"cubed",
         "extra":"top with club soda",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker; A part from the soda water"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice, top with soda water, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -6275,20 +4409,6 @@
         "garnish":"mint sprig",
         "ice":"crushed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Shake hard to emulsify. Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add fresh cubed ice to the glass, fine strain the cocktail inside the glass, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -6316,20 +4436,6 @@
         "garnish":"-",
         "ice":"1/2 cubed + 1/2 crushed",
         "extra":"Lime heels are discs sliced deep from the side of the lime, mostly peel but with a thin layer of juice sacs still attached",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass and lightly muddle the lime discs"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add a couple of ice cubes and with a barspoon stir to combine all the ingredients in the glass for 8 to 10 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Top the glass with crushed ice and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -6357,20 +4463,6 @@
         "garnish":"lemon wedge",
         "ice":"cubed",
         "extra":"top with club soda or any flavoured soda",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker; A part from the ginger beer"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice, top with soda water, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -6398,20 +4490,6 @@
         "garnish":"lemon twist",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the mixing glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
-            },
-            {
-                "step": "Step 3",
-                "text": "Strain the cocktail inside the glass, add fresh cubed ice, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -6454,20 +4532,6 @@
         "garnish":"lemon wheel",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the cocktail shaker"
-            },
-            {
-                "step": "Step 2",
-                "text": "Shake hard to emulsify your foaming agent. Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
-            },
-            {
-                "step": "Step 3",
-                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice, allow it to settle, garnish and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -6505,20 +4569,6 @@
         "garnish":"-",
         "ice":"cubed",
         "extra":"hand-whipped cream float",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass; keep the hand-whipped cream on the side for now"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the glass, give it a short stir to chill and mix the ingredients together"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add more fresh cubed ice, float the hand-whipped cream on top, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -6546,20 +4596,6 @@
         "garnish":"orange slice",
         "ice":"cubed",
         "extra":"-",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass; a part from the cranberry juice"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the glass, give it a short stir to chill and mix the ingredients together"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add more fresh cubed ice, pour the orange juice on top, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -6592,20 +4628,6 @@
         "garnish":"lime wedge & mint sprig",
         "ice":"cubed",
         "extra":"top with coca cola",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add lime juice and your rum of choice into the glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the glass, give it a short stir to chill and mix the ingredients together"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add more fresh cubed ice, top it up with coca cola, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -6628,20 +4650,6 @@
         "garnish":"orange slice",
         "ice":"cubed",
         "extra":"pour grenadine over the ice to make it sink - add as much grenadine as you want",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Add fresh cubed ice to the glass, give it a short stir to chill and mix the ingredients together"
-            },
-            {
-                "step": "Step 3",
-                "text": "Add fresh cubed ice, pour the grenadine, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
@@ -6669,20 +4677,6 @@
         "garnish":"grated nutmeg",
         "ice":"-",
         "extra":"top up with boiling hot water",
-        "procedure": [
-            {
-                "step": "Step 1",
-                "text": "Add all the ingredients into the glass"
-            },
-            {
-                "step": "Step 2",
-                "text": "Give a quick stir to mix the ingredients together"
-            },
-            {
-                "step": "Step 3",
-                "text": "Top the glass with boiling hot water, garnish it and enjoy!"
-            }
-        ],
 
         "ingredients":[
             {
