@@ -4673,7 +4673,7 @@
         "id":"hot-rum-punch",
         "name":"Hot Rum Punch",
         "method":"build",
-        "glass":"clear coffee cup",
+        "glass":"coffee mug",
         "garnish":"grated nutmeg",
         "ice":"-",
         "extra":"top up with boiling hot water",
