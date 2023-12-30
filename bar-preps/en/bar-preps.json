@@ -287,20 +287,19 @@
     },
     {
         "id": "speedrail-setup",
-        "title": "Speedrail setup",
-        "description": "",
+        "title": "Speed Rail Setup",
+        "description": "Essentials of Speed Rail and Proper Stocking",
         "body": {
-            "intro": "",
+            "intro": "Let's delve into a crucial piece of equipment highly valuable to bartenders. Positioned right in front of the ice-well in most cases, the speed rail is fundamental for ensuring swift service.",
             "section": [
                 {
-                    "heading": "",
-                    "content": ""
+                    "heading": "Basics and Setup",
+                    "content": "A speed rail typically houses the most frequently used spirits, sugars, juices, and batches. Sometimes, it includes a shaker filled with water to keep bar spoons or muddlers ready to be used. The speed-rail should always be tailored around sales; if your bar sells more spirits and mixers than cocktails, prioritize spirits in the speed rail. The same principle applies to signature cocktails; having pre-batched versions can expedite service, especially if they're readily accessible on the speed rail."
                 },
                 {
-                    "heading": "",
-                    "content": ""
+                    "heading": "Tips and Tricks",
+                    "content": "In my opinion, your speed rail should always feature your highest-selling house spirits like Vodka, Gin, and Rum. For bars serving cocktails, consider having bottles of lime and/or lemon juice at all times. Also, consider the display arrangement of bottles behind the bar. If they're mirrored behind each station, allocate more space in the speed rail for signature cocktail batches and other preparations. Alternatively, if the bar is organized horizontally by product type, adapt the speed rail accordingly to ensure easy access from each station. For example, if the house whiskey is on the far side of the bar, placing a bottle in the speed rail can optimize efficiency. This logic applies to other products as well."
                 }
-                
             ]
         }
     },
