@@ -3,6 +3,15 @@
         "id":"",
         "title":"",
         "description":"",
-        "body":""
+        "body": [
+            {
+                "heading": "",
+                "content": ""
+            },
+            {
+                "heading": "",
+                "content": ""
+            }
+        ]
     }
 ]
