@@ -2450,5 +2450,166 @@
                 "text": "Top the glass with boiling hot water, garnish it and enjoy!"
             }
         ]
+    },
+    {
+        "id":"b-52",
+        "procedure": [
+            {
+                "step": "Step 1",
+                "text": "Pour Kahlua first and then, with the help of a bar spoon, layer Baileys on top of it"
+            },
+            {
+                "step": "Step 2",
+                "text": "Layer the Grand Marnier on top of the Baileys"
+            },
+            {
+                "step": "Step 3",
+                "text": "Now with the help of a lighter, or a small blow-torch, light the Grand Marnier on fire"
+            },
+            {
+                "step": "Step 4",
+                "text": "Blow the flame off and enjoy!"
+            }
+        ]
+    },
+    {
+        "id":"blow-job",
+        "procedure": [
+            {
+                "step": "Step 1",
+                "text": "Pour Kahlua first and then, with the help of a bar spoon, layer Baileys on top of it"
+            },
+            {
+                "step": "Step 2",
+                "text": "If you fancy a garnish, try sprinkling some chocolate powder, cinnamon or any powder you like in top and enjoy"
+            }
+        ]
+    },
+    {
+        "id":"baby-guinness",
+        "procedure": [
+            {
+                "step": "Step 1",
+                "text": "Pour Kahlua first and then, with the help of a bar spoon, layer Baileys on top of it"
+            },
+            {
+                "step": "Step 2",
+                "text": "If you fancy a garnish, try sprinkling some chocolate powder, cinnamon or any powder you like in top and enjoy"
+            }
+        ]
+    },
+    {
+        "id":"irish-car-bomb",
+        "procedure": [
+            {
+                "step": "Step 1",
+                "text": "Grab yourself a pint of Guinness and drink half of it"
+            },
+            {
+                "step": "Step 2",
+                "text": "Inside a shot glass pour Jameson whiskey"
+            },
+            {
+                "step": "Step 3",
+                "text": "Drop the shot glass inside the half Guinness and drink it all in one big sip"
+            }
+        ]
+    },
+    {
+        "id":"kamikaze",
+        "procedure": [
+            {
+                "step": "Note:",
+                "text": "This shot can be made in two ways; Built inside the glass or shaken and fine strained inside shots glasses"
+            },
+            {
+                "step": "Build:",
+                "text": "Pour all the ingredients inside a shot glass and enjoy!"
+            },
+            {
+                "step": "Shaken:",
+                "text": "The following method is suggested for more than one shot at the time"
+            },
+            {
+                "step": "Step 1",
+                "text": "Add all the ingredients into the cocktail shaker"
+            },
+            {
+                "step": "Step 2",
+                "text": "Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
+            },
+            {
+                "step": "Step 3",
+                "text": "Fine strain the cocktail inside the glass, add fresh cubed ice and enjoy!"
+            }
+        ]
+    },
+    {
+        "id":"rossa-sour",
+        "procedure": [
+            {
+                "step": "Step 1",
+                "text": "Add all the ingredients into the cocktail shaker"
+            },
+            {
+                "step": "Step 2",
+                "text": "Shake hard to emulsify your foaming agent. Add fresh cubed ice to the shaker, lock it, and shake hard for 8 to 12 seconds (until it is frosty outside)"
+            },
+            {
+                "step": "Step 3",
+                "text": "Fine strain the cocktail into the glass, add your garnish and enjoy"
+            }
+        ]
+    },
+    {
+        "id":"garibaldi",
+        "procedure": [
+            {
+                "step": "Step 1",
+                "text": "Dry blend the orange juice (freshly squeezed is preferred) without ice to make it fluffy"
+            },
+            {
+                "step": "Step 2",
+                "text": "Pour Campari, sugar syrup and half of the orange juice into glass over 2 cubes of ice and stir"
+            },
+            {
+                "step": "Step 3",
+                "text": "Fill glass with more ice and fill with rest of fluffy orange juice"
+            }
+        ]
+    },
+    {
+        "id":"blood-orange-garibaldi",
+        "procedure": [
+            {
+                "step": "Step 1",
+                "text": "Dry blend the blood orange juice (freshly squeezed is preferred) without ice to make it fluffy"
+            },
+            {
+                "step": "Step 2",
+                "text": "Pour Campari, sugar syrup and half of the blood orange juice into glass over 2 cubes of ice and stir"
+            },
+            {
+                "step": "Step 3",
+                "text": "Fill glass with more ice and fill with rest of fluffy blood orange juice"
+            }
+        ]
+    },
+    {
+        "id":"milano-torino",
+        "procedure": [
+            {
+                "step": "Step 1",
+                "text": "Add all the ingredients into the mixing glass"
+            },
+            {
+                "step": "Step 2",
+                "text": "Add fresh cubed ice to the mixing glass and stir the cocktail between 40 to 60 seconds"
+            },
+            {
+                "step": "Step 3",
+                "text": "Strain the cocktail inside the glass, garnish and enjoy!"
+            }
+        ]
     }
 ]
